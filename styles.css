@@ -1,0 +1,54 @@
+body {
+    margin: auto;
+    background: linear-gradient(to left, #000d, #000d) ;
+    font-family: sans-serif;
+    color: #dddd;
+    font-weight: 600;
+
+    box-sizing: border-box;
+    width: 400px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    width: 100%;
+    border-radius: 5px;
+    border: 2px #888 solid;
+    margin: 10px;
+    padding: 20px;
+    box-shadow:  0  0 20px  #555;
+    box-sizing: border-box;
+}
+
+h3 {
+    text-align: center;
+}
+
+details {
+    margin-left: 40px;
+}
+
+a {
+    color: #aaa;
+    text-decoration:underline #555;
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
